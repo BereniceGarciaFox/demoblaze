@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Test artifacts
+reports/
+error-screenshots/
+*.log
+npm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
